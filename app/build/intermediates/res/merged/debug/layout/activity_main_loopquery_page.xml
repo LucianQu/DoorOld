@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 此处用相对布局，目的是叫最下部项目沉底 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"  
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_vertical"
+    android:orientation="vertical"
+    android:background="#f0eff5">
+ 	<LinearLayout 
+ 	    android:id="@+id/lqLine_02"
+	    android:layout_width="match_parent"
+	    android:layout_height="0dp" 
+	    android:layout_weight="1">
+		<fragment
+			android:id="@+id/f_1_01"
+			android:name="com.blg.rtu.frmFunction.F_1_1"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"/>
+ 	</LinearLayout> 	
+
+ 	<TextView
+		android:id="@+id/chWelcome"
+		android:textColor="#9c9ca0" 
+		style="@style/welcome"/>
+</LinearLayout>

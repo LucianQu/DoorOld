@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"  
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#f0eff5"
+    android:focusableInTouchMode="true" >
+	<ScrollView
+	    android:id="@+id/f_func_scrollView"
+	    android:layout_width="match_parent"  
+	    android:layout_height="match_parent"  
+	    android:layout_marginTop="0.1dp"
+	    android:layout_marginBottom="0.1dp"
+	    android:scrollbars="none"  
+	    android:fadingEdge="vertical">
+	    
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:orientation="vertical">
+			<fragment
+				android:id="@+id/f_1_00"
+				android:name="com.blg.rtu.frmFunction.F_1_0"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"/>
+
+		   <TextView android:id="@+id/fcWelcome"
+		       android:layout_marginTop="10dp"
+				android:textColor="#9c9ca0" 
+				style="@style/welcome"/>
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:visibility="invisible"
+				android:orientation="vertical">
+				<fragment
+					android:id="@+id/f_01_010"
+					android:name="com.blg.rtu.frmFunction.F_01_010"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"/>
+			</LinearLayout>
+		</LinearLayout>
+	</ScrollView>  
+
+</RelativeLayout>
+

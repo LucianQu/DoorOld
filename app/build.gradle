@@ -1,0 +1,50 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 20
+    buildToolsVersion "27.0.3"
+
+    defaultConfig {
+        applicationId "com.blg.rtu3"
+        minSdkVersion 17
+        targetSdkVersion 20
+        ndk {
+            //选择要添加的对应cpu类型的.so库
+            abiFilters 'armeabi', 'armeabi-v7a', 'armeabi-v8a'
+            //'x86', 'x86_64', 'mips', 'mips64'
+        }
+
+        manifestPlaceholders = [
+                JPUSH_PKGNAME: applicationId,
+                JPUSH_APPKEY : "d2eabca4f521b5acbb1fe561", //JPush上注册的包名对应的appkey.
+                JPUSH_CHANNEL: "developer-default", //暂时填写默认值即可.
+        ]
+
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-project.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:20.0.0'
+    compile files('libs/mina-core-2.0.7.jar')
+    compile files('libs/model.jar')
+    compile files('libs/slf4j-android-1.6.1-RC1.jar')
+    compile files('libs/utils.jar')
+    compile files('libs/xpp3_min-1.1.4c.jar')
+    compile files('libs/xstream-1.4.7.jar')
+    compile 'cn.jiguang.sdk:jpush:3.1.1'
+    // 此处以JPush 3.0.3 版本为例。
+    compile 'cn.jiguang.sdk:jcore:1.1.9'
+    compile 'org.xutils:xutils:3.3.44'
+    compile 'com.google.code.gson:gson:2.6.2'
+    compile 'com.github.lecho:hellocharts-library:1.5.8@aar'
+    //compile 'com.github.lecho:hellocharts-android:v1.5.8'
+    compile files('libs/Volley.jar')
+    compile files('libs/xUtils-2.6.14.jar')
+}
