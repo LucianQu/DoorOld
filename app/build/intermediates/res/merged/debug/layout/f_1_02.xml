@@ -235,7 +235,17 @@
 					android:layout_height="20dp" />
 			</LinearLayout>
 		</LinearLayout>
-
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:gravity="center"
+			android:layout_height="wrap_content">
+			<Button
+				android:id="@+id/bt_video"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="视频"
+				/>
+		</LinearLayout>
 	</LinearLayout>
 </LinearLayout>
 

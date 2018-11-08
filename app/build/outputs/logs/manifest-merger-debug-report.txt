@@ -1,439 +1,449 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:2:1-143:12
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:2:1-147:12
 	package
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:4:5-27
-		INJECTED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml
-		INJECTED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:4:5-27
+		INJECTED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml
+		INJECTED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:6:5-34
-		INJECTED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml
-		INJECTED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:6:5-34
+		INJECTED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml
+		INJECTED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:5:5-28
-		INJECTED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml
-		INJECTED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml
+		INJECTED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:2:11-69
 permission#com.blg.rtu3.permission.JPUSH_MESSAGE
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:9:5-11:47
-MERGED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:11:5-13:47
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:9:5-11:47
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:11:5-13:47
 	android:protectionLevel
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:11:9-44
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:11:9-44
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:10:9-61
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:10:9-61
 uses-permission#com.blg.rtu3.permission.JPUSH_MESSAGE
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:13:5-77
-MERGED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:16:5-81
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:13:5-77
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:16:5-81
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:13:22-74
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:13:22-74
 uses-permission#android.permission.RECEIVE_USER_PRESENT
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:14:5-79
-MERGED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:17:5-79
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:14:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:17:5-79
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:14:22-76
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:14:22-76
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:15:5-75
-MERGED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:20:5-75
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:15:5-75
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:20:5-75
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:15:22-72
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:15:22-72
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:18:5-78
-MERGED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:30:5-78
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:18:5-78
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:30:5-78
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:18:22-75
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:18:22-75
 uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:19:5-89
-MERGED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:34:5-89
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:19:5-89
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:34:5-89
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:19:22-86
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:19:22-86
 uses-permission#android.permission.GET_TASKS
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:20:5-68
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:20:5-68
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:20:22-65
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:20:22-65
 uses-feature#android.hardware.bluetooth_le
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:22:5-89
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:22:5-89
 	android:required
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:22:64-87
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:22:64-87
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:22:19-63
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:22:19-63
 uses-permission#android.permission.BLUETOOTH
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:23:5-67
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:23:22-65
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:23:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:24:5-73
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:24:5-73
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:24:22-71
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:24:22-71
 uses-permission#android.permission.WAKE_LOCK
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:27:5-67
-MERGED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:19:5-68
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:27:5-67
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:19:5-68
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:27:22-65
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:27:22-65
 uses-permission#android.permission.CHANGE_NETWORK_STATE
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:29:5-78
-MERGED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:35:5-79
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:29:5-78
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:35:5-79
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:29:22-76
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:29:22-76
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:30:5-78
-MERGED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:26:5-79
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:30:5-78
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:26:5-79
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:30:22-76
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:30:22-76
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:31:2-75
-MERGED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:33:5-79
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:31:2-75
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:33:5-79
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:31:19-73
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:31:19-73
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:32:2-77
-MERGED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:31:5-81
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:32:2-77
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:31:5-81
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:32:19-75
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:32:19-75
 uses-permission#android.permission.INTERNET
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:33:2-63
-MERGED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:18:5-67
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:33:2-63
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:18:5-67
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:33:19-61
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:33:19-61
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:34:2-77
-MERGED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:21:5-81
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:34:2-77
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:21:5-81
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:34:19-75
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:34:19-75
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:35:2-72
-MERGED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:32:5-76
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:35:2-72
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:32:5-76
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:35:19-70
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:35:19-70
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:36:2-72
-MERGED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:27:5-76
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:36:2-72
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:27:5-76
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:36:19-70
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:36:19-70
 uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:37:2-82
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:37:2-82
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:37:19-80
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:37:19-80
 uses-permission#android.permission.WRITE_SETTINGS
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:38:2-69
-MERGED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:23:5-73
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:38:2-69
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:23:5-73
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:38:19-67
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:38:19-67
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:39:2-77
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:39:2-77
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:39:19-75
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:39:19-75
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:43:3-77
-MERGED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:22:5-80
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:43:3-77
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:22:5-80
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:43:20-75
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:43:20-75
 uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:44:5-83
-MERGED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:25:5-84
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:44:5-83
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:25:5-84
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:44:22-81
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:44:22-81
 uses-permission#android.permission.RECEIVE_SMS
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:46:5-69
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:46:5-69
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:46:22-67
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:46:22-67
 uses-permission#android.permission.SEND_SMS
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:47:5-66
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:47:5-66
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:47:22-64
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:47:22-64
 uses-permission#android.permission.VIBRATE
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:49:5-65
-MERGED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:24:5-66
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:49:5-65
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:24:5-66
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:49:22-63
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:49:22-63
 supports-screens
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:51:2-56:33
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:51:2-56:33
 	android:largeScreens
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:52:6-33
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:52:6-33
 	android:smallScreens
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:54:6-33
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:54:6-33
 	android:normalScreens
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:53:6-34
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:53:6-34
 	android:xlargeScreens
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:51:20-48
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:51:20-48
 	android:resizeable
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:55:6-31
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:55:6-31
 	android:anyDensity
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:56:6-31
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:56:6-31
 uses-sdk
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:58:5-61:11
-MERGED from [com.android.support:support-v4:20.0.0] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\AndroidManifest.xml:16:5-42
-MERGED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:7:5-9:41
-MERGED from [cn.jiguang.sdk:jcore:1.1.9] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jcore\1.1.9\AndroidManifest.xml:7:5-9:41
-MERGED from [org.xutils:xutils:3.3.44] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\org.xutils\xutils\3.3.44\AndroidManifest.xml:8:5-10:41
-MERGED from [com.github.lecho:hellocharts-library:1.5.8] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\com.github.lecho\hellocharts-library\1.5.8\AndroidManifest.xml:7:5-9:41
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:58:5-61:11
+MERGED from [com.android.support:support-v4:20.0.0] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\AndroidManifest.xml:16:5-42
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.jiguang.sdk:jcore:1.1.9] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jcore\1.1.9\AndroidManifest.xml:7:5-9:41
+MERGED from [org.xutils:xutils:3.3.44] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\org.xutils\xutils\3.3.44\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.lecho:hellocharts-library:1.5.8] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\com.github.lecho\hellocharts-library\1.5.8\AndroidManifest.xml:7:5-9:41
+MERGED from [:xuanyuanxing_p2p:] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\xuanyuanxing_p2p\AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:60:9-38
-		INJECTED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml
-		INJECTED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:60:9-38
+		INJECTED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml
+		INJECTED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:59:9-35
-		INJECTED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml
-		INJECTED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:59:9-35
+		INJECTED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml
+		INJECTED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml
 application
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:64:5-141:19
-MERGED from [com.android.support:support-v4:20.0.0] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\AndroidManifest.xml:17:5-19
-MERGED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:37:5-131:19
-MERGED from [cn.jiguang.sdk:jcore:1.1.9] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jcore\1.1.9\AndroidManifest.xml:11:5-12:19
-MERGED from [org.xutils:xutils:3.3.44] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\org.xutils\xutils\3.3.44\AndroidManifest.xml:12:5-20
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:64:5-145:19
+MERGED from [com.android.support:support-v4:20.0.0] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\AndroidManifest.xml:17:5-19
+MERGED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:37:5-131:19
+MERGED from [cn.jiguang.sdk:jcore:1.1.9] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jcore\1.1.9\AndroidManifest.xml:11:5-12:19
+MERGED from [org.xutils:xutils:3.3.44] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\org.xutils\xutils\3.3.44\AndroidManifest.xml:12:5-20
+MERGED from [:xuanyuanxing_p2p:] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\xuanyuanxing_p2p\AndroidManifest.xml:11:5-15:19
 	android:label
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:69:9-41
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:69:9-41
+	android:supportsRtl
+		ADDED from [:xuanyuanxing_p2p:] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\xuanyuanxing_p2p\AndroidManifest.xml:14:9-35
 	android:hardwareAccelerated
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:66:9-44
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:66:9-44
 	android:allowBackup
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:67:9-35
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:67:9-35
 	android:icon
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:68:9-38
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:68:9-38
 	android:theme
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:70:9-40
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:70:9-40
 	tools:replace
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:71:9-52
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:71:9-52
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:65:9-47
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:65:9-47
 activity#com.blg.rtu3.MainActivity
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:73:9-82:20
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:73:9-82:20
 	android:screenOrientation
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:77:13-49
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:77:13-49
 	android:label
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:75:13-45
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:75:13-45
 	android:theme
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:76:13-72
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:76:13-72
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:74:13-53
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:74:13-53
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:78:13-81:29
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:78:13-81:29
 action#android.intent.action.MAIN
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:79:17-69
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:79:17-69
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:79:25-66
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:79:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:80:17-77
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:80:17-77
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:80:27-74
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:80:27-74
 activity#com.blg.rtu3.SplashActivity
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:84:9-93:20
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:84:9-93:20
 	android:screenOrientation
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:88:13-49
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:88:13-49
 	android:label
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:86:13-45
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:86:13-45
 	android:theme
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:87:13-77
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:87:13-77
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:85:13-55
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:85:13-55
 activity#com.blg.rtu3.LoginActivity
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:94:9-97:20
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:94:9-97:20
 	android:theme
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:96:13-60
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:96:13-60
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:95:13-54
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:95:13-54
+activity#com.blg.rtu.frmFunction.VideoPlayActivity
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:98:9-101:20
+	android:theme
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:100:13-60
+	android:name
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:99:13-69
 receiver#com.blg.rtu3.receiver.MyAiReceiver
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:105:9-117:20
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:109:9-121:20
 	android:enabled
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:107:13-35
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:111:13-35
 	android:exported
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:108:13-37
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:112:13-37
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:106:13-62
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:110:13-62
 intent-filter#cn.jpush.android.intent.CONNECTION+cn.jpush.android.intent.MESSAGE_RECEIVED+cn.jpush.android.intent.NOTIFICATION_OPENED+cn.jpush.android.intent.NOTIFICATION_RECEIVED+cn.jpush.android.intent.REGISTRATION+com.blg.rtu3
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:109:13-116:29
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:113:13-120:29
 action#cn.jpush.android.intent.REGISTRATION
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:110:17-79
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:114:17-79
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:110:25-76
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:114:25-76
 action#cn.jpush.android.intent.MESSAGE_RECEIVED
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:111:17-83
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:115:17-83
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:111:25-80
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:115:25-80
 action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:112:17-88
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:116:17-88
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:112:25-85
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:116:25-85
 action#cn.jpush.android.intent.NOTIFICATION_OPENED
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:113:17-86
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:117:17-86
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:113:25-83
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:117:25-83
 action#cn.jpush.android.intent.CONNECTION
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:114:17-77
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:118:17-77
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:114:25-74
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:118:25-74
 category#com.blg.rtu3
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:115:17-57
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:119:17-57
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:115:27-54
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:119:27-54
 service#com.blg.rtu3.server.LocalServer
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:119:9-122:46
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:123:9-126:46
 	android:enabled
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:122:13-35
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:126:13-35
 	android:exported
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:121:13-37
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:125:13-37
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:120:13-59
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:124:13-59
 receiver#com.blg.rtu3.sm.SmsReceiver
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:135:9-139:20
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:139:9-143:20
 	android:enabled
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:135:62-84
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:139:62-84
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:135:19-61
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:139:19-61
 intent-filter#android.provider.Telephony.SMS_RECEIVED
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:136:11-138:27
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:140:11-142:27
 	android:priority
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:136:26-48
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:140:26-48
 action#android.provider.Telephony.SMS_RECEIVED
-ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:137:15-79
+ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:141:15-79
 	android:name
-		ADDED from D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\src\main\AndroidManifest.xml:137:23-77
+		ADDED from H:\WorkFile\Download\DoorLockBefore\app\src\main\AndroidManifest.xml:141:23-77
 activity#cn.jpush.android.ui.PopWinActivity
-ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:40:9-43:52
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:40:9-43:52
 	android:exported
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:42:13-37
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:42:13-37
 	android:theme
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:43:13-49
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:43:13-49
 	android:name
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:41:13-62
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:41:13-62
 activity#cn.jpush.android.ui.PushActivity
-ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:46:9-57:20
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:46:9-57:20
 	android:exported
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:49:13-37
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:49:13-37
 	android:configChanges
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:48:13-63
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:48:13-63
 	android:theme
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:50:13-60
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:50:13-60
 	android:name
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:47:13-60
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:47:13-60
 intent-filter#${JPUSH_PKGNAME}+android.intent.category.DEFAULT+cn.jpush.android.ui.PushActivity
-ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:51:13-56:29
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:51:13-56:29
 action#cn.jpush.android.ui.PushActivity
-ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:52:17-75
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:52:17-75
 	android:name
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:52:25-72
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:52:25-72
 category#android.intent.category.DEFAULT
-ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:54:17-76
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:54:17-76
 	android:name
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:54:27-73
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:54:27-73
 category#${JPUSH_PKGNAME}
-ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:55:17-61
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:55:17-61
 	android:name
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:55:27-58
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:55:27-58
 service#cn.jpush.android.service.PushService
-ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:60:9-71:19
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:60:9-71:19
 	android:enabled
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:62:13-35
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:62:13-35
 	android:process
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:64:13-40
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:64:13-40
 	android:exported
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:63:13-37
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:63:13-37
 	android:name
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:61:13-64
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:61:13-64
 intent-filter#cn.jpush.android.intent.PUSH_TIME+cn.jpush.android.intent.PushService+cn.jpush.android.intent.REGISTER+cn.jpush.android.intent.REPORT
-ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:65:13-70:29
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:65:13-70:29
 action#cn.jpush.android.intent.REGISTER
-ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:66:17-75
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:66:17-75
 	android:name
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:66:25-72
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:66:25-72
 action#cn.jpush.android.intent.REPORT
-ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:67:17-73
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:67:17-73
 	android:name
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:67:25-70
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:67:25-70
 action#cn.jpush.android.intent.PushService
-ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:68:17-78
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:68:17-78
 	android:name
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:68:25-75
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:68:25-75
 action#cn.jpush.android.intent.PUSH_TIME
-ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:69:17-76
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:69:17-76
 	android:name
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:69:25-73
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:69:25-73
 service#cn.jpush.android.service.DaemonService
-ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:75:9-84:19
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:75:9-84:19
 	android:enabled
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:77:13-35
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:77:13-35
 	android:exported
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:78:13-36
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:78:13-36
 	android:name
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:76:13-66
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:76:13-66
 intent-filter#${JPUSH_PKGNAME}+cn.jpush.android.intent.DaemonService
-ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:79:13-83:29
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:79:13-83:29
 action#cn.jpush.android.intent.DaemonService
-ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:80:17-80
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:80:17-80
 	android:name
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:80:25-77
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:80:25-77
 receiver#cn.jpush.android.service.PushReceiver
-ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:87:9-106:20
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:87:9-106:20
 	android:enabled
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:89:13-35
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:89:13-35
 	android:exported
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:90:13-37
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:90:13-37
 	android:name
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:88:13-65
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:88:13-65
 intent-filter#${JPUSH_PKGNAME}+cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
-ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:91:13-94:29
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:91:13-94:29
 	android:priority
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:91:28-51
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:91:28-51
 action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
-ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:92:17-94
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:92:17-94
 	android:name
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:92:25-91
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:92:25-91
 intent-filter#android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
-ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:95:13-98:29
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:95:13-98:29
 action#android.intent.action.USER_PRESENT
-ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:96:17-77
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:96:17-77
 	android:name
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:96:25-74
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:96:25-74
 action#android.net.conn.CONNECTIVITY_CHANGE
-ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:97:17-79
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:97:17-79
 	android:name
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:97:25-76
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:97:25-76
 intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
-ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:100:13-105:29
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:100:13-105:29
 action#android.intent.action.PACKAGE_ADDED
-ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:101:17-78
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:101:17-78
 	android:name
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:101:25-75
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:101:25-75
 action#android.intent.action.PACKAGE_REMOVED
-ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:102:17-80
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:102:17-80
 	android:name
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:102:25-77
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:102:25-77
 data
-ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:104:17-50
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:104:17-50
 	android:scheme
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:104:23-47
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:104:23-47
 receiver#cn.jpush.android.service.AlarmReceiver
-ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:109:9-111:40
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:109:9-111:40
 	android:exported
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:111:13-37
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:111:13-37
 	android:name
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:110:13-66
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:110:13-66
 provider#cn.jpush.android.service.DataProvider
-ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:113:9-116:40
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:113:9-116:40
 	android:authorities
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:115:13-64
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:115:13-64
 	android:exported
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:116:13-37
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:116:13-37
 	android:name
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:114:13-65
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:114:13-65
 provider#cn.jpush.android.service.DownloadProvider
-ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:118:9-121:39
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:118:9-121:39
 	android:authorities
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:120:13-68
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:120:13-68
 	android:exported
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:121:13-36
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:121:13-36
 	android:name
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:119:13-69
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:119:13-69
 meta-data#JPUSH_CHANNEL
-ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:124:9-126:48
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:124:9-126:48
 	android:value
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:126:13-45
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:126:13-45
 	android:name
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:125:13-41
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:125:13-41
 meta-data#JPUSH_APPKEY
-ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:127:9-129:47
+ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:127:9-129:47
 	android:value
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:129:13-44
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:129:13-44
 	android:name
-		ADDED from [cn.jiguang.sdk:jpush:3.1.1] D:\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:128:13-40
+		ADDED from [cn.jiguang.sdk:jpush:3.1.1] H:\WorkFile\Download\DoorLockBefore\app\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\AndroidManifest.xml:128:13-40

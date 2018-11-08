@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: D:\\android1\\Doorlock\\DoorLockBefore\\DoorLockBefore\\app\\src\\main\\aidl\\com\\blg\\rtu\\aidl\\ServiceAidl.aidl
+ * Original file: H:\\WorkFile\\Download\\DoorLockBefore\\app\\src\\main\\aidl\\com\\blg\\rtu\\aidl\\ServiceAidl.aidl
  */
 package com.blg.rtu.aidl;
 public interface ServiceAidl extends android.os.IInterface

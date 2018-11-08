@@ -6,10 +6,12 @@ import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
 import android.media.MediaCodec;
 import android.media.MediaFormat;
 import android.os.*;
+import android.support.annotation.NonNull;
 import android.support.v4.app.ActivityCompat;
 import android.text.TextUtils;
 import android.util.Log;
@@ -20,9 +22,13 @@ import android.view.WindowManager;
 import android.widget.*;
 import com.audio.AudioJni;
 
+import com.blg.rtu.util.ToastUtils;
+import com.blg.rtu.util.permission.PermissionHelper;
+import com.blg.rtu.util.permission.PermissionInterface;
+import com.blg.rtu3.R;
 import com.xuanyuanxing.camera.VideoPlayTool;
 import com.xuanyuanxing.camera.XuanYuanXingP2PTool;
-import com.xuanyuanxing.domain.DeviceInfo;
+
 import com.xuanyuanxing.engine.*;
 import com.xuanyuanxing.ui.XuanYuanSurfaceView;
 
@@ -37,7 +43,8 @@ import java.util.List;
 /**
  * 播放视频
  */
-public class VideoPlayActivity extends Activity implements PlayVideoCallBack, ClientP2pListener, OnClickListener {
+public class VideoPlayActivity extends Activity implements PlayVideoCallBack, ClientP2pListener, OnClickListener
+,PermissionInterface {
     private final static String TAG = VideoPlayActivity.class.getSimpleName();
     //新修改的硬解码 属性
     private XuanYuanSurfaceView mSurface = null;
@@ -54,7 +61,7 @@ public class VideoPlayActivity extends Activity implements PlayVideoCallBack, Cl
     boolean isExit = false;
     static public VideoPlayActivity instance = null;
     ImageButton video_pre;
-    ImageView screenShotImg;
+    private ImageView screenShotImg;
     private Button settingBtn = null;
     private ImageButton Bimg_list = null;
     private ImageButton Bimg_talk = null;
@@ -76,6 +83,8 @@ public class VideoPlayActivity extends Activity implements PlayVideoCallBack, Cl
     XuanYuanXingP2PTool p2PTool;
     MyHandle handle = new MyHandle(this);
 
+    private String[] permissions=new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE};
+    private PermissionHelper mPermissionHelper;
 
     public void setVideoWidthAndHeight(int q) {
         if (q == 1) {
@@ -216,7 +225,7 @@ public class VideoPlayActivity extends Activity implements PlayVideoCallBack, Cl
 //        int videoWidth = video_width;
 //        Log.e("ggg","videoWidth = "+videoWidth);
 //        int videoHeight = video_height;
-        RelativeLayout layout = findViewById(R.id.surfaceview_rl);
+        RelativeLayout layout = (RelativeLayout) findViewById(R.id.surfaceview_rl);
 //int surfaceWidth=getWindowManager().getDefaultDisplay().getWidth();
 //        int surfaceHeight =mSurface.getHeight();
 //        Log.e("ggg","surfaceHeight---"+surfaceHeight);
@@ -378,6 +387,9 @@ public class VideoPlayActivity extends Activity implements PlayVideoCallBack, Cl
      * 开启权限
      */
     private void checkPermission() {
+
+
+/*
         //检查权限（NEED_PERMISSION）是否被授权 PackageManager.PERMISSION_GRANTED表示同意授权
         if (ActivityCompat.checkSelfPermission(this, Manifest.permission.WRITE_EXTERNAL_STORAGE)
                 != PackageManager.PERMISSION_GRANTED) {
@@ -392,14 +404,46 @@ public class VideoPlayActivity extends Activity implements PlayVideoCallBack, Cl
         } else {
             //  Toast.makeText(this, "授权成功！", Toast.LENGTH_SHORT).show();
             //Log.e("ttt", "checkPermission: 已经授权！");
-        }
+        }*/
     }
 
+    @Override
+    public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
+        if (mPermissionHelper.requestPermissionsResult(requestCode, permissions, grantResults)){
+            return;
+        }
+        super.onRequestPermissionsResult(requestCode, permissions, grantResults);
+
+    }
+
+    @Override
+    public int getPermissionsRequestCode() {
+        return 200;
+    }
+
+    @Override
+    public String[] getPermissions() {
+        return permissions;
+    }
+
+    @Override
+    public void requestPermissionsSuccess() {
+        /*if (shouldShowRequestPermissionRationale( Manifest.permission
+                .WRITE_EXTERNAL_STORAGE)) {
+            Toast.makeText(this, "请相关权限，否则无法正常使用本应用！", Toast.LENGTH_SHORT).show();
+        }*/
+    }
+
+    @Override
+    public void requestPermissionsFail() {
+        ToastUtils.show(VideoPlayActivity.this,"权限申请失败···");
+    }
 
     @Override
     protected void onResume() {
         super.onResume();
-
+        mPermissionHelper = new PermissionHelper(this, this);
+        mPermissionHelper.requestPermissions();
     }
 
 
@@ -508,21 +552,20 @@ public class VideoPlayActivity extends Activity implements PlayVideoCallBack, Cl
     //摄像头密码
     private String pwd = "123456789a";
     //摄像头uid
-    private String uuid = "xxxxxxxxxx";
-    private DeviceInfo deviceInfo;
+    private String uuid = "LWEWZ36UZNVJNBTU111A";
 
     @Override
     public void onCreate(final Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON, WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
         setContentView(R.layout.play_new);
-        checkPermission();
-        mSurface = findViewById(R.id.surfaceview);
+        //checkPermission();
+        mSurface =(XuanYuanSurfaceView) findViewById(R.id.surfaceview);
 
         //ff
         instance = this;
         Bundle bundle = getIntent().getExtras();
-        deviceInfo = (DeviceInfo) bundle.getSerializable("deviceInfo");
+        //deviceInfo = (DeviceInfo) bundle.getSerializable("deviceInfo");
         //初始化PTP连接
         //p2PTool = new XuanYuanXingP2PTool(deviceInfo.getUuId(), defaultUser, pwd, deviceInfo.getName());
         p2PTool = new XuanYuanXingP2PTool(uuid, defaultUser, pwd, "测试摄像机");
@@ -614,9 +657,9 @@ public class VideoPlayActivity extends Activity implements PlayVideoCallBack, Cl
     public void onClick(View view) {
         switch (view.getId()) {
             case R.id.settingBtn:
-                Intent intent = new Intent(this, SettingActivity.class);
+               /* Intent intent = new Intent(this, SettingActivity.class);
                 intent.putExtra("uuid", deviceInfo.getUuId());
-                startActivity(intent);
+                startActivity(intent);*/
                 break;
             case R.id.preIb:
                 video_pre.setVisibility(View.GONE);

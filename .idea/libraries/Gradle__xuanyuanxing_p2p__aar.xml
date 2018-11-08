@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: xuanyuanxing_p2p:@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/xuanyuanxing_p2p/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/xuanyuanxing_p2p/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

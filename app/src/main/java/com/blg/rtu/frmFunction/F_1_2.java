@@ -11,6 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.Button;
 import android.widget.ProgressBar;
 import android.widget.Spinner;
 import android.widget.TextView;
@@ -342,6 +343,15 @@ public class F_1_2 extends FrmParent {
                         }
                     }
                 }
+			}
+		});
+
+		Button video = (Button) view.findViewById(R.id.bt_video) ;
+		video.setOnClickListener(new View.OnClickListener() {
+			@Override
+			public void onClick(View view) {
+				Intent intent = new Intent(act, VideoPlayActivity.class) ;
+				startActivity(intent);
 			}
 		});
 

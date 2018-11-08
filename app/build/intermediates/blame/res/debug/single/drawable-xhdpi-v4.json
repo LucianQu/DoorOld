@@ -1,46 +1,70 @@
 [
     {
-        "merged": "D:\\android1\\Doorlock\\DoorLockBefore\\DoorLockBefore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_user.png",
-        "source": "D:\\android1\\Doorlock\\DoorLockBefore\\DoorLockBefore\\app\\src\\main\\res\\drawable-xhdpi\\ic_user.png"
+        "merged": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\app_category_unchecked.png",
+        "source": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\src\\main\\res\\drawable-xhdpi\\app_category_unchecked.png"
     },
     {
-        "merged": "D:\\android1\\Doorlock\\DoorLockBefore\\DoorLockBefore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon.png",
-        "source": "D:\\android1\\Doorlock\\DoorLockBefore\\DoorLockBefore\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+        "merged": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\border1.xml",
+        "source": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\src\\main\\res\\drawable-xhdpi\\border1.xml"
     },
     {
-        "merged": "D:\\android1\\Doorlock\\DoorLockBefore\\DoorLockBefore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\learn_click.xml",
-        "source": "D:\\android1\\Doorlock\\DoorLockBefore\\DoorLockBefore\\app\\src\\main\\res\\drawable-xhdpi\\learn_click.xml"
+        "merged": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\border_blue1.xml",
+        "source": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\src\\main\\res\\drawable-xhdpi\\border_blue1.xml"
     },
     {
-        "merged": "D:\\android1\\Doorlock\\DoorLockBefore\\DoorLockBefore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\border_blue1.xml",
-        "source": "D:\\android1\\Doorlock\\DoorLockBefore\\DoorLockBefore\\app\\src\\main\\res\\drawable-xhdpi\\border_blue1.xml"
+        "merged": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\border_gray.xml",
+        "source": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\src\\main\\res\\drawable-xhdpi\\border_gray.xml"
     },
     {
-        "merged": "D:\\android1\\Doorlock\\DoorLockBefore\\DoorLockBefore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\border1.xml",
-        "source": "D:\\android1\\Doorlock\\DoorLockBefore\\DoorLockBefore\\app\\src\\main\\res\\drawable-xhdpi\\border1.xml"
+        "merged": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_talk.png",
+        "source": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\src\\main\\res\\drawable-xhdpi\\img_talk.png"
     },
     {
-        "merged": "D:\\android1\\Doorlock\\DoorLockBefore\\DoorLockBefore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\app_category_unchecked.png",
-        "source": "D:\\android1\\Doorlock\\DoorLockBefore\\DoorLockBefore\\app\\src\\main\\res\\drawable-xhdpi\\app_category_unchecked.png"
+        "merged": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_user.png",
+        "source": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\src\\main\\res\\drawable-xhdpi\\ic_user.png"
     },
     {
-        "merged": "D:\\android1\\Doorlock\\DoorLockBefore\\DoorLockBefore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\border_gray.xml",
-        "source": "D:\\android1\\Doorlock\\DoorLockBefore\\DoorLockBefore\\app\\src\\main\\res\\drawable-xhdpi\\border_gray.xml"
+        "merged": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_list_bu.png",
+        "source": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\src\\main\\res\\drawable-xhdpi\\img_list_bu.png"
     },
     {
-        "merged": "D:\\android1\\Doorlock\\DoorLockBefore\\DoorLockBefore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_psw.png",
-        "source": "D:\\android1\\Doorlock\\DoorLockBefore\\DoorLockBefore\\app\\src\\main\\res\\drawable-xhdpi\\ic_psw.png"
+        "merged": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\input_bg.png",
+        "source": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\src\\main\\res\\drawable-xhdpi\\input_bg.png"
     },
     {
-        "merged": "D:\\android1\\Doorlock\\DoorLockBefore\\DoorLockBefore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\input_bg.png",
-        "source": "D:\\android1\\Doorlock\\DoorLockBefore\\DoorLockBefore\\app\\src\\main\\res\\drawable-xhdpi\\input_bg.png"
+        "merged": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_psw.png",
+        "source": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\src\\main\\res\\drawable-xhdpi\\ic_psw.png"
     },
     {
-        "merged": "D:\\android1\\Doorlock\\DoorLockBefore\\DoorLockBefore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\border_blue.xml",
-        "source": "D:\\android1\\Doorlock\\DoorLockBefore\\DoorLockBefore\\app\\src\\main\\res\\drawable-xhdpi\\border_blue.xml"
+        "merged": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\learn_click.xml",
+        "source": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\src\\main\\res\\drawable-xhdpi\\learn_click.xml"
     },
     {
-        "merged": "D:\\android1\\Doorlock\\DoorLockBefore\\DoorLockBefore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\app_category_checked.png",
-        "source": "D:\\android1\\Doorlock\\DoorLockBefore\\DoorLockBefore\\app\\src\\main\\res\\drawable-xhdpi\\app_category_checked.png"
+        "merged": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon.png",
+        "source": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_talk_bu.png",
+        "source": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\src\\main\\res\\drawable-xhdpi\\img_talk_bu.png"
+    },
+    {
+        "merged": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\returns.png",
+        "source": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\src\\main\\res\\drawable-xhdpi\\returns.png"
+    },
+    {
+        "merged": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\border_blue.xml",
+        "source": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\src\\main\\res\\drawable-xhdpi\\border_blue.xml"
+    },
+    {
+        "merged": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_list.png",
+        "source": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\src\\main\\res\\drawable-xhdpi\\img_list.png"
+    },
+    {
+        "merged": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\app_category_checked.png",
+        "source": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\src\\main\\res\\drawable-xhdpi\\app_category_checked.png"
+    },
+    {
+        "merged": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\video_pre.png",
+        "source": "H:\\WorkFile\\Download\\DoorLockBefore\\app\\src\\main\\res\\drawable-xhdpi\\video_pre.png"
     }
 ]

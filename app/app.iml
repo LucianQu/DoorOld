@@ -22,7 +22,7 @@
       </configuration>
     </facet>
   </component>
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
     <output url="file://$MODULE_DIR$/build/intermediates/classes/debug" />
     <output-test url="file://$MODULE_DIR$/build/intermediates/classes/test/debug" />
     <exclude-output />
@@ -60,13 +60,6 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/rs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/shaders" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/res" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/resources" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/assets" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/aidl" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/rs" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/shaders" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/res" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/assets" type="java-test-resource" />
@@ -74,6 +67,13 @@
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/rs" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/shaders" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/assets" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/blame" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/bundles" />
@@ -84,6 +84,7 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.github.lecho/hellocharts-library/1.5.8/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/org.xutils/xutils/3.3.44/jars" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/xuanyuanxing_p2p/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/incremental" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/incremental-safeguard" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/instant-run-support" />
@@ -99,23 +100,24 @@
       <excludeFolder url="file://$MODULE_DIR$/build/outputs" />
       <excludeFolder url="file://$MODULE_DIR$/build/tmp" />
     </content>
-    <orderEntry type="jdk" jdkName="Android API 20 Platform" jdkType="Android SDK" />
+    <orderEntry type="jdk" jdkName="Android API 26 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="Gradle: __local_aars__:D.\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\libs\mina-core-2.0.7.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_aars__:H.\WorkFile\Download\DoorLockBefore\app\libs\Volley.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_aars__:H.\WorkFile\Download\DoorLockBefore\app\libs\mina-core-2.0.7.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: cn.jiguang.sdk:jcore-1.1.9" level="project" />
     <orderEntry type="library" exported="" name="Gradle: org.xutils:xutils-3.3.44" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.google.code.gson:gson:2.6.2@jar" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: __local_aars__:D.\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\libs\utils.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_aars__:H.\WorkFile\Download\DoorLockBefore\app\libs\utils.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_aars__:H.\WorkFile\Download\DoorLockBefore\app\libs\xstream-1.4.7.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:support-annotations:20.0.0@jar" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: __local_aars__:D.\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\libs\model.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: __local_aars__:D.\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\libs\slf4j-android-1.6.1-RC1.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_aars__:H.\WorkFile\Download\DoorLockBefore\app\libs\xUtils-2.6.14.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_aars__:H.\WorkFile\Download\DoorLockBefore\app\libs\model.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: xuanyuanxing_p2p:@aar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.github.lecho:hellocharts-library-1.5.8" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: __local_aars__:D.\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\libs\xUtils-2.6.14.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:support-v4-20.0.0" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: __local_aars__:D.\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\libs\Volley.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: __local_aars__:D.\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\libs\xstream-1.4.7.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: __local_aars__:D.\android1\Doorlock\DoorLockBefore\DoorLockBefore\app\libs\xpp3_min-1.1.4c.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_aars__:H.\WorkFile\Download\DoorLockBefore\app\libs\xpp3_min-1.1.4c.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_aars__:H.\WorkFile\Download\DoorLockBefore\app\libs\slf4j-android-1.6.1-RC1.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: cn.jiguang.sdk:jpush-3.1.1" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: android-android-20" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.apache.http.legacy-android-26" level="project" />
   </component>
 </module>

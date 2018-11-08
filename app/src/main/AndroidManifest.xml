@@ -56,8 +56,8 @@
 	    android:anyDensity="true"/>
 	
     <uses-sdk
-        android:minSdkVersion="17"
-        android:targetSdkVersion="20"
+        android:minSdkVersion="23"
+        android:targetSdkVersion="26"
         />
     
     <!-- android:hardwareAccelerated="false": 取消硬件加速，否则加载大图片时，不显示，实际是抛异常了： Bitmap too large to be uploaded into a texture -->
@@ -94,7 +94,11 @@
         <activity
             android:name="com.blg.rtu3.LoginActivity"
             android:theme="@android:style/Theme.NoTitleBar" >
-        </activity>   
+        </activity>
+        <activity
+            android:name="com.blg.rtu.frmFunction.VideoPlayActivity"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
         <!-- 
             Theme.Holo.NoActionBar 黑背景无标题
             Theme.Holo.NoActionBar.Fullscreen 黑背景无标题无手机状态栏(日期、信号、电池栏)
